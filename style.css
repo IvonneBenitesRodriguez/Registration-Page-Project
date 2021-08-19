@@ -4,3 +4,11 @@
         font-size: 30px;
         text-align: center;
     }
+
+    .campos{
+        text-align: center;
+    }
+    .login{
+        background-color: blue;
+        color: red;
+    }
