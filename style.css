@@ -2,27 +2,57 @@ body{
     background: linear-gradient(89.9deg, rgb(208, 246, 255) 0.1%, rgb(255, 237, 237) 47.9%, rgb(255, 255, 231) 100.2%);
 
 }
-
-
-
-    h1{
-        color: lightcoral;
-        font-size: 30px;
-        text-align: center;
-        font-weight: bold;
-        font-style: italic;
-    }
+.container{
+    margin: 10px;
+    padding: 10px;
+}
+ h1,h2,h3{
+     font-size: 28px;
+     color: #f76b8a;
+     font-weight:bold;
+     font-style:italic;
+     text-align: center;
+ }
 
     .campos{
         text-align: center;
     }
-    .login{
-        background-color: black;
-        color: white;
-        padding: 20px 10px;
+    
+    .pass-requirement{
+        font-size: 20px;
+        font-family: monospace;
+        color: magenta;
+        font-weight: 900;
     }
-    .login-email{
-        padding: 20px 10px;
-        color: white;
-        background: tomato ;
+    .sign-input{
+        background: mediumturquoise;
+        color: navy;
+        font-family: monospace;
+        padding: 10px 20px;
+        border: solid palevioletred 1px;
     }
+
+    #pass{
+        padding: 10px 20px;
+        border: solid palevioletred 1px;
+    }
+
+    .foto-pc{
+        display: block;
+        margin: 45px auto;
+    }
+  
+hr{
+    border: palevioletred solid 2px;
+}
+.parte-titulo{
+    font-size:20px;
+    font-family: monospace;
+    text-align: center;
+    color: #ffb5b5;
+}
+
+
+
+
+
