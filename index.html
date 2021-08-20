@@ -11,9 +11,10 @@
 <body>
     <h1>Hello Git</h1>
     <form class="campos">
-        <input type="text" placeholder="Enter your email">
-        <input type="submit" value="Login" class="login">
-        
+        <label for="pass">Password (8 characters minimum):</label>
+    <input type="password" id="pass" name="password"
+           minlength="8" required>
+           <input type="submit" value="Sign in">
     </form>
 
     <script src="index.js"></script>
