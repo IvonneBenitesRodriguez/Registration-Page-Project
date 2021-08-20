@@ -1,14 +1,28 @@
+body{
+    background: linear-gradient(89.9deg, rgb(208, 246, 255) 0.1%, rgb(255, 237, 237) 47.9%, rgb(255, 255, 231) 100.2%);
+
+}
+
+
 
     h1{
-        color: yellow;
+        color: lightcoral;
         font-size: 30px;
         text-align: center;
+        font-weight: bold;
+        font-style: italic;
     }
 
     .campos{
         text-align: center;
     }
     .login{
-        background-color: blue;
-        color: red;
+        background-color: black;
+        color: white;
+        padding: 20px 10px;
+    }
+    .login-email{
+        padding: 20px 10px;
+        color: white;
+        background: tomato ;
     }
