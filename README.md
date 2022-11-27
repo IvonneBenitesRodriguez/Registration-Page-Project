@@ -3,6 +3,8 @@ This project is about an user registration to a class of Git, the user will be a
  the website lets the users continue with the registration to the Git 's classes.
 The landing page asks for a password to the users which will be show in the website.
 
+Link:  https://ivonnebenitesrodriguez.github.io/Registration-Page-Project/?password=23456789
+
 ## Features:
 * The user will receive a **pop-ups window** with a message which asks to the user about her/his age. Depending on the result the registration continues. It appears a pop-ups window with a message of confirmation, so the user can continue with his/her registration.
 * The user has a registration button, when the user adds her/his password, it appears a pop-ups window with the secret password.
